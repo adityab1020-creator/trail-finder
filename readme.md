@@ -1,0 +1,1 @@
+This program lets users find trails based on zip code
